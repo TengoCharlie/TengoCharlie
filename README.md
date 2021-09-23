@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack and UI/UX Desgin
 - 📫 How to reach me ....
     - If you are comfortable to wait for the response than Mail me on tenguriya.harsh@gmail.com
-    - If you don't have patience for response than Whatsapp me on +91-7426003118,(No Calls & Text) 
+    - If you don't have patience for response than Whatsapp me on +91-8209419128,(No Calls & Text) 
 
 <!---
 TengoCharlie/TengoCharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
