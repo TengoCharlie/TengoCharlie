@@ -1,52 +1,5 @@
-- 👋 Hi, I’m Harsh Tenguriya (TengoCharlie)
-- 👀 I’m interested in Tech....Coding, desing, 3Ddesign, IOTs, Robotics and Automation etc..........
-- 🌱 I’m currently working on MERN, MEAN, PEAN Stacks and UI/UX Desgin and currently learning Flutter.
-- 📫 How to reach me ....
-    - If you are comfortable to wait for the response than Mail me on hello@tenguriya.com
-
-# Harsh Tenguriya  
-**Senior Software Engineer**  
-- 📧 Email: tenguriya.harsh@gmail.com  
-- 📞 Phone: +91-9462828205  
-- 🔗 LinkedIn: [linkedin.com/in/harshtenguriya](https://www.linkedin.com/in/harshtenguriya/)  
-- 🔗 GitHub: [github.com/TengoCharlie](https://github.com/TengoCharlie)
-
-## 👨‍💻 About Me  
-I am a **Senior Software Engineer** with 5+ years of experience in **full-stack development**, specializing in **Node.js**, **API development**, and **AWS cloud solutions**. I have a proven track record in designing and developing highly scalable backend services and integrating serverless architectures using AWS services like **Lambda**, **API Gateway**, and **S3**. My expertise also extends to frontend development using **React.js**, **Angular**, **Flutter**, and **Next.js**.
-
-### 💡 Key Skills  
-- **Programming Languages:** JavaScript, TypeScript, Python, C  
-- **Frameworks & Libraries:** React.js, Angular, Next.js, Flutter, NestJS  
-- **Cloud Technologies:** AWS (Lambda, API Gateway, S3, RDS), Azure, Google Cloud  
-- **Databases:** PostgreSQL, MongoDB, DynamoDB  
-- **DevOps & Tools:** Docker, AWS CDK, Jenkins, GitHub Actions, pnpm
-
-### 🔥 Notable Projects  
-- **Mac-Parkman Project**  
-   Designed a fully serverless architecture using **AWS Lambda**, **API Gateway**, and **S3**, automating infrastructure using **AWS CDK**.
-
-- **Harkins Builder Vendor Portal**  
-   Full-stack development of a vendor management portal using **React.js**, **NestJS**, and **PostgreSQL**.
-
-- **Cab Service Application**  
-   Led the development of a cross-platform cab service application using **Flutter** and AWS services like **Lambda**, **S3**, and **Cognito**.
-
-### 🏆 Achievements  
-- **Employee of the Month** at **Carnera Technologies** for leading **Mac-Parkman** and **Harkins Builder** projects.  
-- **1st Runner-Up** at **IIT Kanpur Technical Fest** in **Manoeuvre Robot Competition**.  
-- **Winner** at **MNIT Jaipur Technical Fest** in **Grid-O-Grinder Maze Solver Robotics Competition**.
-
-### 🎓 Education  
-- **Master’s in Computer Science** (In Progress), Scaler Neoversity (Affiliated with Woolf University, Europe)  
-- **B.Tech in Mechanical Engineering**, Swami Keshvanand Institute of Technology, Jaipur
-
-### 💬 Connect with Me  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-harshtenguriya-blue)](https://www.linkedin.com/in/harshtenguriya/)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-TengoCharlie-lightgrey)](https://github.com/TengoCharlie)
-
-
-# Harsh Tenguriya 🚀  
-**Senior Software Engineer | Full-Stack Developer | Cloud Enthusiast**
+# Harsh Tenguriya 🤖💡  
+**Senior Software Engineer | AI & LLM Enthusiast | Full-Stack Developer | Cloud Architect**
 
 - 📧 Email: [tenguriya.harsh@gmail.com](mailto:tenguriya.harsh@gmail.com)  
 - 📞 Phone: +91-9462828205  
@@ -58,19 +11,43 @@ I am a **Senior Software Engineer** with 5+ years of experience in **full-stack 
 
 ## 🚀 About Me  
 
-I’m a **Senior Software Engineer** with over **5+ years of experience** building scalable, high-performance **full-stack applications** using cutting-edge technologies. My expertise spans **backend development** (Node.js, AWS Lambda, Express.js) and **frontend** frameworks like **React.js**, **Angular**, **Flutter**, and **Next.js**. With a passion for **cloud computing**, I specialize in **serverless architectures** and **infrastructure-as-code** using **AWS CDK** and **CloudFormation**.
+I am a **Senior Software Engineer** specializing in **full-stack development** with a passion for **Artificial Intelligence (AI)** and **Large Language Models (LLMs)**. With over **5+ years of experience**, I have successfully built scalable, high-performance applications utilizing technologies such as **Node.js**, **AWS Lambda**, **React.js**, **NestJS**, and **Flutter**. My recent focus includes **AI development** using **LangChain**, **ChatGPT**, **Gemini API**, and **vector databases** for building powerful conversational agents and AI-driven systems.
 
-I'm currently pursuing a **Master’s in Computer Science** with specializations in **Problem Solving**, **DSA**, **Product Management**, and **Machine Learning**. I love solving complex problems, optimizing systems, and working with cutting-edge tech to deliver high-impact projects.
+Currently, I am pursuing a **Master’s in Computer Science**, honing my skills in **Problem Solving**, **Advanced DSA**, **Machine Learning**, and **Cloud Computing**. My work spans across **backend** and **frontend development**, **cloud architecture**, and **AI-driven projects** involving LLMs, vector search, and NLP models.
+
+---
+
+## 🧠 AI & LLM Projects  
+
+### **AI-Powered Conversational System**  
+**Technologies**: LangChain, OpenAI API, Gemini API, ChatGPT, Vector DB, TypeScript, Node.js  
+Developed a conversational AI system using **LangChain** and **ChatGPT** for natural language processing, integrated with **Gemini API** for real-time data, and **vector databases** for optimized search capabilities. Built with **TypeScript** and **Node.js**, the system handles complex conversational flows, memory, and dynamic responses.
+
+### **LLM-Powered Knowledge Base Search**  
+**Technologies**: LangChain, OpenAI, Pinecone (Vector DB), TypeScript  
+Implemented an **LLM-powered knowledge base** search engine that leverages **vector embeddings** with **Pinecone** for fast, accurate searches across large document sets. Utilized **LangChain** for building seamless query pipelines, allowing users to interact naturally with data.
 
 ---
 
 ## 💻 Technologies & Tools  
+
+### **AI & Machine Learning**  
+- **LLMs**: LangChain, OpenAI GPT, Gemini API, ChatGPT  
+- **Vector Databases**: Pinecone, Weaviate, Faiss  
+- **Frameworks**: TensorFlow, PyTorch (for ML models), HuggingFace  
+- **NLP**: Text generation, summarization, question-answering, knowledge retrieval
+
+### **Core Development**  
 - **Languages**: JavaScript, TypeScript, Python, C  
 - **Frontend**: React.js, Angular, Next.js, Flutter  
-- **Backend**: Node.js, NestJS, Express.js, GraphQL, TypeScript  
-- **Cloud**: AWS Lambda, API Gateway, S3, Cognito, DynamoDB, RDS, Lightsail  
-- **Database**: PostgreSQL, MongoDB, DynamoDB, MySQL  
-- **DevOps**: Docker, Jenkins, AWS CDK, GitHub Actions, CloudFormation, pnpm, npm  
+- **Backend**: Node.js, NestJS, Express.js, GraphQL  
+- **Cloud**: AWS Lambda, API Gateway, S3, Cognito, RDS, Lightsail, CloudFormation  
+- **Database**: PostgreSQL, MongoDB, DynamoDB, Vector Databases (Pinecone, Faiss)
+
+### **DevOps & Automation**  
+- **Tools**: Docker, Jenkins, AWS CDK, GitHub Actions, CloudFormation  
+- **CI/CD**: Expertise in automated pipelines, testing, and deployment using Jenkins, GitHub Actions  
+- **Infrastructure as Code**: AWS CDK, Terraform
 
 ---
 
@@ -78,23 +55,27 @@ I'm currently pursuing a **Master’s in Computer Science** with specializations
 
 ### **Mac-Parkman Server**  
 **Technologies**: AWS Lambda, API Gateway, Lightsail, ACM, S3, AWS CDK  
-Built a serverless architecture using **AWS Lambda** to handle backend processing, **API Gateway** for routing, and **AWS S3** for secure file storage. Automated deployment using **AWS CDK** to manage infrastructure as code, improving efficiency and reducing manual errors.
+Built a serverless backend for a large-scale project using **AWS Lambda** for scalable backend services, integrated **API Gateway**, and **S3** for secure file storage. Managed deployment and infrastructure using **AWS CDK** and **ACM** for SSL management.
 
 ### **Harkins Builder Vendor Portal**  
 **Technologies**: React.js, NestJS, PostgreSQL, TypeORM  
-Developed a comprehensive vendor management system for **Harkins Builder**, a U.S.-based construction company. Used **React.js** for a dynamic frontend and **NestJS** for building scalable REST APIs. Implemented **TypeORM** with **PostgreSQL** for seamless data management and reporting.
+Developed a comprehensive vendor management platform, integrating **React.js** for an interactive frontend and **NestJS** for building secure and scalable APIs. **TypeORM** and **PostgreSQL** were used for seamless data management.
 
-### **Cab Service Application**  
+### **Cab Service Mobile Application**  
 **Technologies**: Flutter, AWS Lambda, MongoDB, API Gateway, Cognito, Google Maps API  
-Led the development of a **cab service app** for mobile/web using **Flutter** for cross-platform development. Built a robust backend using **NestJS** and **AWS Lambda**, integrated real-time location tracking with **Google Maps API**, and handled secure authentication using **AWS Cognito**.
-
-### **LangChain with OpenAI and Gemini API**  
-**Technologies**: TypeScript, Node.js, OpenAI API, Gemini API  
-Developed a conversational AI system using **LangChain** with integrations for **OpenAI API** and **Gemini API** to handle natural language processing and real-time data. Built the system in **TypeScript** and **Node.js** with optimizations for managing large-scale conversational flows.
+Led the development of a **cross-platform cab service** app using **Flutter** and an **AWS Lambda**-powered backend. Integrated real-time location tracking with **Google Maps API**, and managed user authentication with **AWS Cognito**. Automated notifications with **SNS** and **SES** for customer updates.
 
 ---
 
-## 📈 GitHub Stats  
+## 🌐 AI LLM Project in Development
+
+### **LangChain and ChatGPT-Powered Document Assistant**  
+**Technologies**: LangChain, ChatGPT, OpenAI API, Pinecone  
+Building an **AI-powered document assistant** capable of handling document retrieval, summarization, and interactive querying. Using **LangChain** with **ChatGPT** and **vector databases** like **Pinecone** to manage large knowledge bases and return contextually relevant information.
+
+---
+
+## 📊 GitHub Stats  
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TengoCharlie&show_icons=true&theme=radical)
 
@@ -104,10 +85,6 @@ Developed a conversational AI system using **LangChain** with integrations for *
 - **Issues Resolved**: ![Issues](https://img.shields.io/github/issues-closed/TengoCharlie)  
 - **Repositories**: ![Repos](https://img.shields.io/github/repos/TengoCharlie)
 
-### 📊 Detailed Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TengoCharlie&layout=compact&theme=radical)
-
 ---
 
 ## 🏆 Achievements  
@@ -115,7 +92,7 @@ Developed a conversational AI system using **LangChain** with integrations for *
 - **Employee of the Month** at **Carnera Technologies** for leading **Mac-Parkman** and **Harkins Builder Vendor Portal** projects.  
 - **1st Runner-Up** at **IIT Kanpur Technical Fest (Techkriti'17)** in **Manoeuvre Robot Competition**.  
 - **Winner** at **MNIT Jaipur Technical Fest (2017)** in **Grid-O-Grinder Maze Solver Robotics Competition**.  
-- Built a **cab service application** and **vendor portal** used by U.S.-based clients in **Carnera Technologies**.
+- Successfully delivered **AI-based LLM systems** integrated with **ChatGPT** and **LangChain**, including **vector database** optimizations.
 
 ---
 
@@ -130,24 +107,17 @@ Developed a conversational AI system using **LangChain** with integrations for *
 
 ---
 
-## 📚 Latest Blog Posts
+## 🌟 Open-Source Contributions
 
-- [Mastering Serverless Architecture with AWS Lambda](#)  
-- [LangChain with OpenAI API: A Beginner's Guide](#)  
-- [Building Scalable Systems with AWS CDK](#)  
+- **LangChain Enhancements**: Contributed to extending conversation management features for **LangChain**.  
+- **Serverless Solutions**: Created reusable components for **AWS Lambda** deployments and CI/CD integrations.
 
 ---
 
-## 👥 Let's Connect!  
+## 💬 Let’s Collaborate!  
 
-I love collaborating on **open-source projects**, contributing to the **developer community**, and learning new tech. Feel free to reach out if you want to discuss **AI**, **Cloud Solutions**, or **Software Architecture**.  
+I'm passionate about exploring **AI-driven solutions**, working on **LLMs**, and contributing to the open-source community. Reach out if you're interested in discussing **AI**, **cloud computing**, or **full-stack development**!
 
 - 📧 Email: tenguriya.harsh@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/harshtenguriya](https://www.linkedin.com/in/harshtenguriya/)  
 - 🐦 Twitter: [twitter.com/HarshTenguriya](#)  
-
-
-<!---
-TengoCharlie/TengoCharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
