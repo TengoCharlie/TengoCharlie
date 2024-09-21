@@ -54,7 +54,6 @@ I’m **Harsh Tenguriya**, a dynamic **Senior Software Engineer** with expertise
 ![LangChain](https://img.shields.io/badge/LangChain-blue.svg?logo=LangChain&logoColor=white&style=flat-square)  
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-success?logo=openai&style=flat-square)  
 ![Gemini API](https://img.shields.io/badge/Gemini_API-informational?logo=ai&style=flat-square)  
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-Pinecone_Faiss-informational?logo=databricks&style=flat-square)
 
 **IoT & Robotics**  
 ![IoT](https://img.shields.io/badge/IoT-Arduino_RaspberryPi_AWS_IoT-informational?style=flat-square&logo=raspberry-pi)  
@@ -112,10 +111,31 @@ I developed **Automatically Enterprise's** company website and internal tools us
 
 ---
 
+### **Payment Application Frontend**  
+**Company**: Akeo Software Solutions  
+**Technologies**: Angular, TypeScript  
+I developed the **frontend** of a **payment application** using **Angular** and **TypeScript**. This project focused on creating a responsive and intuitive user interface to ensure seamless transactions and user interaction. The frontend was optimized for performance and scalability, enhancing the payment processing experience.
+
+---
+
+### **Micro-Financial Management System Frontend**  
+**Company**: Akeo Software Solutions  
+**Technologies**: Angular, TypeScript  
+I was responsible for building the **frontend** of a **micro-financial management system** using **Angular**. The system was designed to handle small to medium-scale financial transactions with a user-friendly interface that allowed clients to manage their finances efficiently.
+
+---
+
 ### **Project Management System**  
 **Company**: Akeo Software Solutions  
 **Technologies**: Node.js, Express.js, Angular, PostgreSQL  
 At **Akeo**, I developed a **project management system** that allowed for seamless operations management, task scheduling, and reporting. The system was built using **Node.js** and **Angular**, with **PostgreSQL** handling data management. The system enabled project leaders to track progress, manage resources, and streamline communication between teams.
+
+---
+
+### **Testing and Quality Assurance of Autodesk Learning Platform**  
+**Company**: Carnera Technologies (Third-Party for Autodesk)  
+**Technologies**: JEST, React.js, Node.js  
+As part of my role at **Carnera Technologies**, I was involved in **testing** and **quality assurance** for the **Autodesk Learning Platform**. I wrote and executed test cases to ensure the stability and performance of the platform using the **JEST framework**. Additionally, I worked on **quality assurance** for the **Autodesk chat support tool**, helping maintain system reliability and performance.
 
 ---
 
