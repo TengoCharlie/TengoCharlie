@@ -70,25 +70,73 @@ I’m **Harsh Tenguriya**, a dynamic **Senior Software Engineer** with expertise
 
 ## 🚀 Featured Projects  
 
-### **Mac-Parkman Server**  
-**Technologies**: AWS Lambda, API Gateway, Lightsail, ACM, S3, AWS CDK  
-Built a **serverless backend** using **AWS Lambda** for scalable backend services, integrated **API Gateway**, and automated deployment using **AWS CDK**. Optimized data processing and secure communication using **AWS S3**.
+### **Tesseract Outlook Plugin**  
+**Company**: Carnera Technologies  
+**Technologies**: Node.js, AWS Lambda, PostgreSQL, React.js  
+I led the development of a **Tesseract Outlook Plugin** that involved a full-stack approach using **Node.js** on the backend and **React.js** for the frontend. This plugin integrates directly with Outlook, facilitating improved project management and communication for **Tesseract**. The system was serverless, leveraging **AWS Lambda** and **PostgreSQL** for real-time data handling and efficient project workflows.
+
+---
 
 ### **Harkins Builder Vendor Portal**  
+**Company**: Carnera Technologies  
 **Technologies**: React.js, NestJS, PostgreSQL, TypeORM  
-Developed a vendor management platform for **Harkins Builder** using **React.js** for frontend, **NestJS** for APIs, and **PostgreSQL** for data management. Integrated complex project tracking and invoicing workflows.
+I led the development of the **Harkins Builder Vendor Portal**, a comprehensive vendor management system for construction projects. The system was built with **React.js** on the frontend and **NestJS** with **TypeORM** on the backend. It facilitated vendor onboarding, project tracking, and invoicing, enhancing operational efficiency for **Harkins Builder**.
 
-### **Cab Service Mobile Application**  
-**Technologies**: Flutter, AWS Lambda, MongoDB, API Gateway, Cognito, Google Maps API  
-Developed a **cross-platform cab service** app with **Flutter** and **NestJS** on the backend. Integrated **Google Maps API** for real-time tracking and managed user authentication via **AWS Cognito**. Utilized **SNS** and **SES** for notifications.
+---
 
-### **AI-Powered Conversational System**  
-**Technologies**: LangChain, OpenAI API, Gemini API, ChatGPT, Vector DB, TypeScript, Node.js  
-Created a conversational AI system leveraging **LangChain** and **ChatGPT**. Integrated with **Gemini API** for real-time data processing and **vector databases** for efficient search. Built in **TypeScript** and **Node.js** for real-time responses.
+### **RiskCast Employee Management System**  
+**Company**: Carnera Technologies  
+**Technologies**: Node.js, AWS Lambda, API Gateway, PostgreSQL  
+Developed a **serverless backend system** using **AWS Lambda** for managing employee timesheets and resources on construction projects. The system integrated **PostgreSQL** for real-time data synchronization and was designed for efficient scalability with low-cost maintenance.
 
-### **LLM-Powered Knowledge Base Search**  
-**Technologies**: LangChain, OpenAI, Pinecone (Vector DB), TypeScript  
-Implemented a **knowledge base search engine** powered by **LangChain** and **Pinecone**. Leveraged **vector embeddings** for fast document retrieval and seamless user interaction.
+---
+
+### **Mac-Parkman Project**  
+**Company**: Carnera Technologies  
+**Technologies**: AWS Lambda, API Gateway, Lightsail, ACM, AWS S3, AWS CDK  
+Designed and implemented a **serverless architecture** using **AWS Lambda** and **API Gateway** for real-time data processing. **AWS CDK** was used to automate infrastructure deployment, and **S3** was integrated for secure file storage, making the system highly scalable.
+
+---
+
+### **Quadcopter Project**  
+**Company**: Automatically Enterprise  
+**Technologies**: Arduino, Raspberry Pi, GPS, GSM, Wi-Fi  
+Developed an autonomous **Quadcopter** using **Arduino** and **Raspberry Pi**, which integrated **GPS**, **GSM**, and **Wi-Fi** modules for real-time flight control. This project featured intelligent navigation and real-time obstacle detection, demonstrating expertise in both **hardware integration** and **autonomous control systems**.
+
+---
+
+### **Company Website and Google Apps Script Tools**  
+**Company**: Automatically Enterprise  
+**Technologies**: Google Apps Script, Google Chat Bots, JavaScript  
+I developed **Automatically Enterprise's** company website and internal tools using **Google Apps Script** and **Google Chat Bots**. The website served as a portfolio for the company’s services, while the internal tools automated administrative tasks like **document management**, **email notifications**, and **real-time collaboration** through Google Chat. **Google Apps Script** allowed for seamless integration with the company’s existing **Google Workspace**.
+
+---
+
+### **Project Management System**  
+**Company**: Akeo Software Solutions  
+**Technologies**: Node.js, Express.js, Angular, PostgreSQL  
+At **Akeo**, I developed a **project management system** that allowed for seamless operations management, task scheduling, and reporting. The system was built using **Node.js** and **Angular**, with **PostgreSQL** handling data management. The system enabled project leaders to track progress, manage resources, and streamline communication between teams.
+
+---
+
+### **Cab Service Application**  
+**Company**: Akeo Software Solutions  
+**Technologies**: Flutter, AWS Lambda, S3, MongoDB, Google Maps API, API Gateway, Cognito, SQS, SNS, SES, CloudFormation  
+Led the development of a **cross-platform cab service app** using **Flutter** for iOS, Android, and web platforms. The backend was powered by **AWS Lambda**, and the system used **Google Maps API** for real-time tracking. The app managed user authentication via **AWS Cognito** and utilized **SQS**, **SNS**, and **SES** for notifications.
+
+---
+
+### **LangChain with OpenAI API and Gemini API**  
+**Self-Practice Project**  
+**Technologies**: LangChain, OpenAI API, Gemini API, TypeScript, Node.js  
+Built an AI-driven application using **LangChain**, **OpenAI API**, and **Gemini API** in **TypeScript** and **Node.js**. This project featured **conversational flows** managed by **LangChain** and used the **OpenAI API** for natural language processing. The integration of **Gemini API** allowed the AI to fetch real-time data, enhancing the conversational experience.
+
+---
+
+### **ERP Management System with IoT**  
+**Company**: Ensorta Technologies  
+**Technologies**: Raspberry Pi, Node.js, MongoDB, Fingerprint Sensor, RFID  
+Developed an **IoT-enabled ERP system** using **Raspberry Pi** and integrated **fingerprint sensors** and **RFID modules** for employee management. The backend was managed by **Node.js**, while **MongoDB** handled the data storage, enabling real-time tracking and automation of processes.
 
 ---
 
